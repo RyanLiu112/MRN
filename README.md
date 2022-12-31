@@ -1,6 +1,8 @@
 # Meta-Reward-Net
 
-Official implementation of "Meta-Reward-Net: Implicitly Differentiable Reward Learning for Preference-based Reinforcement Learning". Our implementation is based on the official codebase of [B-Pref](https://github.com/rll-research/BPref).
+Official implementation of the NeurIPS 2022 paper: "Meta-Reward-Net: Implicitly Differentiable Reward Learning for Preference-based Reinforcement Learning". Our implementation is based on the official codebase of [B-Pref](https://github.com/rll-research/BPref) and [SURF](https://github.com/alinlab/SURF).
+
+
 
 ## How to install
 
@@ -78,4 +80,16 @@ python train_PEBBLE_semi_dataaug.py env=metaworld_door-open-v2 seed=12345 agent.
 ```
 
 
+
+## Citation
+
+```
+@inproceedings{liu2022metarewardnet,
+  title={Meta-Reward-Net: Implicitly Differentiable Reward Learning for Preference-based Reinforcement Learning},
+  author={Runze Liu and Fengshuo Bai and Yali Du and Yaodong Yang},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+  year={2022}
+}
+```
 
