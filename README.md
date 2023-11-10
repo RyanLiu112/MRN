@@ -29,7 +29,7 @@ pip install -e .
 cd ../custom_dmc2gym
 pip install -e .
 cd ..
-pip install git+https://github.com/rlworkgroup/metaworld.git@master#egg=metaworld
+pip install git+https://github.com/rlworkgroup/metaworld.git@04be337a12305e393c0caf0cbf5ec7755c7c8feb
 pip install pybullet termcolor
 ```
 
