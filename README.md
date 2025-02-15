@@ -104,3 +104,9 @@ Our newest research on PbRL:
   year      = {2025}
 }
 ```
+
+## Acknowledgments
+
+- [MetaWorld](https://github.com/rlworkgroup/metaworld) for the robotic manipulation environments
+- [PEBBLE](https://github.com/pokaxpoka/B_Pref) for the backbone of PbRL
+- [Weights &amp; Biases](https://wandb.ai/) for experiment tracking
