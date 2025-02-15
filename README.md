@@ -83,13 +83,24 @@ python train_PEBBLE_semi_dataaug.py env=metaworld_door-open-v2 seed=12345 agent.
 
 ## Citation
 
-```
+```bibtex
 @inproceedings{liu2022metarewardnet,
-  title={Meta-Reward-Net: Implicitly Differentiable Reward Learning for Preference-based Reinforcement Learning},
-  author={Runze Liu and Fengshuo Bai and Yali Du and Yaodong Yang},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
-  year={2022}
+  title     = {{Meta-Reward-Net}: Implicitly Differentiable Reward Learning for Preference-based Reinforcement Learning},
+  author    = {Runze Liu and Fengshuo Bai and Yali Du and Yaodong Yang},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  volume    = {35},
+  pages     = {22270--22284},
+  year      = {2022}
 }
 ```
 
+Our newest research on PbRL:
+
+```bibtex
+@inproceedings{bai2025rat,
+  title     = {RAT: Adversarial Attacks on Deep Reinforcement Agents for Targeted Behaviors},
+  author    = {Fengshuo Bai, Runze Liu, Yali Du, Ying Wen, Yaodong Yang},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2025}
+}
+```
